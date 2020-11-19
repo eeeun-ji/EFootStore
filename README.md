@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-#EFoot
-
-=======
-<<<<<<< HEAD
-# EFoot
-=======
->>>>>>> branch 'master' of https://github.com/mocha-d/efootstore.git
->>>>>>> branch 'groupbuying' of https://github.com/mocha-d/efootstore.git
+# 2020-1 Software System Develope Teamproject 
+---
+## Project Name
+### EFootStore [알뜰한 자취생들의 상점]
